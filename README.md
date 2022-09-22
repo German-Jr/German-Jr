@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @German-Jr
-- 👀 I’m interested in connecting system together with the use of powershell
-- 🌱 I’m currently learning Python, C#, SCRUM, Git, Azure AI, node.js
